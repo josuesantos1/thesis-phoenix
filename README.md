@@ -1,10 +1,5 @@
 # Thesis
 
-## Why is this archived?
-
-We really appreciate all the community support in the years since we first released thesis-phoenix. Our focus has shifted from Elixer/Phoenix to React Native. Feel free to fork this library and continue on its legacy if you want. 
-
-
 ## What Is Thesis?
 
 **A CMS for Elixir/Phoenix that doesn't hijack your development workflow.**
